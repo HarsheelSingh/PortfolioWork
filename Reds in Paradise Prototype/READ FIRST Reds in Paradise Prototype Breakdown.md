@@ -10,3 +10,5 @@ The AI now fully utilses a proper behaviour tree that dynamically changes depend
 The Player's weapon also now fully comprised of it's own strong but versitile weapon system.
 
 In general, this project will showcase some of my best when it comes to my ability to design and develop fun and versatile game mechanics and systems.
+
+If you can't play the build, you can view a video demo instead at this link https://youtu.be/G2EPVcDy_W0
