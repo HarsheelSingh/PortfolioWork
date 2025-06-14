@@ -1,5 +1,6 @@
 Eyes of the Watcher was made for my Narrative Design unit at AIE. Unlike my other projects, I chose to make this in Twine instead of Unreal as I wanted to start learning a new engine and especially HTML and JavaScript;
-I also planned to make the game fully text based so I would be able to fully focus on the story and it's characters so compared to Unreal, Twine was a much better engine and required a lot less set up to get working.
+I also planned to make the game fully text based so I would be able to fully focus on the story and it's characters so compared to Unreal, Twine was a much better engine and required a lot less set up to get working. 
+Keep in mind that the build is only vertical slice around the midpoint of the story, for idea of what the full story would be then check the NDD.
 
 Eyes of the Watcher takes place in a fictional version of LA known as Merivion City in an alternate universe where science given less moral tolerances; it tells the story about a kid named Deacon who becomes the latest 
 in a linage of vigilantes known as the Watchers, selfless and couragous humans who taken in at young age by the previous Watcher and are trained both physically and mentally before getting genetically mutated to push their bodies to their absolute limits 
@@ -14,4 +15,4 @@ Designing the way the story was told was also difficult as I wanted it to involv
 the style of storytelling that I wanted. In the end, I decided to focus a majority of choices around three different stats that had effects over the entire story, efficiency (how successful was the Player at saving people), brutality (how extreme was the Player when dealing with criminals), 
 and violance (did the Player kill and how often); this allowed me to crame as many choices (and even scene varients) as I could possibly want while still making them feel meaningful since they will always affect the story by simply modifing the variables.
 
-In general, this project is easily the best at showcasing my ability to Design and tell a story.
+In general, this project is easily the best at showcasing my ability to Design and tell a story. 
