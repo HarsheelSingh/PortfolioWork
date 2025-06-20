@@ -1,14 +1,17 @@
-Placed In Time was my first major project done with a full team of Designers, Artists, and Programmers. The project was made as part of my Production unit for my first year at AIE.
-The entire production lasted for 3 two-week sprints starting on the 30th of October and ending on the 6th of December. There was also an additional sprint specifically for planning and concept development.
-We had 4 prompts to choose from, the one we ended up choosing asked for a walking simulator about mindfulness and meditation, we picked it as it played best with our team's strengths; 
-we didn't want to choose anything too technical as we only had 1 Programmer but we were more open to more artistic games due to our team's excess of Artists. Our general concept was a 
-walking simulator about going back through your childhood memories and finding an object that was important to you at that time. It involves the Player going through different times in 
-their life and completing puzzles to find the specific item, the Player can also meditate for a hint of what they need to do if they are ever stuck.
+To The Depths was a roguelike horror game that I designed as part of my Psychology and Economies unit for my year 2 game design course at AIE. 
+It was originally designed to be a premium game like I usually design, but part way into the unit, my teacher decided to give the class the challenge 
+of changing our games to instead be free-to-play, we also had to design the monetization of our games with the new model. Despite the daunting task, 
+I was able to split my game into two sections with one section having all of the game's microtransactions and ads, while the other sections were fully 
+focused on gameplay and the Player's experience allowing for a fairly undisruptive transition to free-to-play.
 
-The final build of Placed In Time contains 5 different levels. 2 puzzle levels and 3 different versions of a hub area. The Player would start in the hub level before sleeping on the couch and 
-transitioning to the next puzzle level; after completing the puzzle level, the Player would return to a different version of the hub that is now filled with items from the level that was just played. 
-The Player would then sleep again to transition to the next level. The final hub level includes the credits and a small cutscene before the game ends. The game's story focuses on a person 
-returning home from a deadbeat job and lacking in motivation to make music (a hobby they used to love). They then start reliving their past and regaining that passion for music.
+The general design of the game was inspired by games like Lethal Company and Deep Rock Galactic but with a bigger focus on the Player consistently 
+risking their lives to keep a loot run going and to get greater rewards. The Player would start in a town where they could purchase items and upgrades, 
+as well as contribute to their quota. They would then enter an elevator into the mines that then place them into the loop of searching the level, mining ore, 
+collecting ore, and either transitioning to the next level to continue their run and massively improve their final total or return to the surface, cashing in what they have, 
+and ending the day. This GDD is one of the most in-depth documents that I've made for a project that hasn't been actually developed yet. I showcased a lot of detail within 
+each system and mechanic within the game, I especially spent a lot of time designing the AI monsters to act exactly how I wanted them to. To showcase certain aspects of the game's design, 
+I also made two prototypes, one in Unreal that showcases the basic movement and mining, as well as a prototype for the town and risk economy, made in machinations as it proved easy to work 
+with and set up for the economy I wanted. A video of the Unreal prototype can be found in the GDD in the mechanics section, while a link to the economy prototype can be found in 
+the "Town&RiskEconomyPrototype" document, the document also includes previous iterations of the prototype and how it evolved over time.
 
-My main role focused on level greyboxing, technical design with the programmer, QA testing & polishing, as well as general team management and ensuring that all the work that 
-my team had done appeared in the game's build for that day.
+In general, these documents will showcase the best of my core game & technical design skills in a theory environment.
