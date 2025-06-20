@@ -8,7 +8,7 @@ and allow them to pretect the City completely on their own. While this process h
 (as Watcher's sacrifice a large portion of their life to given their powers) but also intspirational due to Deacon's dedication to protecting the city (at least at first). How Deacon handles these newly gained powers and responcailities is fully up to the Player
 and the choices they make (and even don't make).
 
-The story took inspiration from many different sources, from Spiderman's innocient persona as Peter Parker to Batman's constant struggle with balancing brutality and saving people's lives, to the structure of the Witcher schools and the interesting set pieces 
+The story took inspiration from many different sources, from Spiderman's innocient persona as Peter Parker to Batman's constant struggle with balancing brutality and saving people's lives, to the structure of different schools of the Witchers and the interesting set pieces 
 that a world similar to Cyberpunk 2077 can offer. 
 
 Designing the way the story was told was also difficult as I wanted it to involve small choices that built up to major changes to the story, and considering that we only had a couple weeks for unit, I had to come up with a system that at least emulated 
