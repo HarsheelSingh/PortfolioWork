@@ -11,4 +11,4 @@ The Player's weapon also now fully comprised of it's own strong but versitile we
 
 In general, this project will showcase some of my best when it comes to my ability to design and develop fun and versatile game mechanics and systems.
 
-If you can't play the build, you can view a video demo instead at this link https://youtu.be/G2EPVcDy_W0
+If you can't play the build, you can view a video demo instead at this link https://youtu.be/itLLKfqLJow

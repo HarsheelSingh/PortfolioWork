@@ -12,3 +12,5 @@ returning home from a deadbeat job and lacking in motivation to make music (a ho
 
 My main role focused on level greyboxing, technical design with the programmer, QA testing & polishing, as well as general team management and ensuring that all the work that 
 my team had done appeared in the game's build for that day.
+
+For a video demo of Placed In Time, click this link: https://youtu.be/1q8odiIyq8M
