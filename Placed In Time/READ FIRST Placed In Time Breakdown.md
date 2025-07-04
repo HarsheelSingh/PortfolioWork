@@ -8,7 +8,7 @@ their life and completing puzzles to find the specific item, the Player can also
 The final build of Placed In Time contains 5 different levels. 2 puzzle levels and 3 different versions of a hub area. The Player would start in the hub level before sleeping on the couch and 
 transitioning to the next puzzle level; after completing the puzzle level, the Player would return to a different version of the hub that is now filled with items from the level that was just played. 
 The Player would then sleep again to transition to the next level. The final hub level includes the credits and a small cutscene before the game ends. The game's story focuses on a person 
-returning home from a deadbeat job and lacking in motivation to make music (a hobby they used to love). They then start reliving their past and regaining that passion for music.
+returning home from a deadbeat job and lacking in motivation to make music (a hobby they used to love). They then start reliving moments from their childhood and regain that passion for music.
 
 My main role focused on level greyboxing, technical design with the programmer, QA testing & polishing, as well as general team management and ensuring that all the work that 
 my team had done appeared in the game's build for that day.
